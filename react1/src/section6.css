@@ -1,0 +1,71 @@
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec2_box{
+  margin-top: 100px;
+  width: 42px;
+  height: 8px;
+  background: #E08631;
+  margin-bottom: 30px;
+}
+.sec6{
+  background: #FAF8F0;
+}
+.logo_sec6_h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 32px;
+  color: #52503B;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.logo_sec6_p{
+  text-align: center;
+  font-size: 16px;
+  color: #52503B;
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin: 14px 0 30px;
+}
+.sec6_cards{
+  display: flex;
+  column-gap: 20px;
+}
+.sec6_card{
+  padding: 33px 47px 31px 31px;
+  height: 266px;
+  border-radius: 4px;
+  background: white;
+}
+.sec6_card h1{
+  font-size: 18px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  color: #333333;
+}
+.sec6_card p{
+  font-size: 14px;
+  margin: 11px 0 0 0 ;
+  font-weight: lighter;
+  font-family: sans-serif;
+  color: #333333;
+}
+.sec6_p{
+  margin-top: 19px;
+}
+.sec6_p:before{
+  content: '';
+  width: 20px;
+  height: 200px;
+  background: #E08631;
+}
+.img_end{
+  display: flex;
+  column-gap: 10px;
+  padding: 40px 0 70px;
+  justify-content: end;
+}

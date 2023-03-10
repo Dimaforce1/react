@@ -1,0 +1,40 @@
+.box_sec5{
+  margin-top: 100px;
+  width: 42px;
+  height: 8px;
+  background: #E08631;
+  margin-bottom: 30px;
+}
+.sec5_box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec5_content h1{
+  font-size: 32px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #52503B;
+}
+.sec5_p_information{
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #52503B;
+  margin: 14px 0 30px;
+}
+.sec5_cards{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.sec5_card{
+  display: flex;
+  column-gap: 16px;
+  color: #333333;
+  font-size: 14px;
+  font-family: sans-serif;
+  margin-bottom: 42px;
+}
+

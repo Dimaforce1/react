@@ -1,0 +1,19 @@
+.box_sec3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec3_box{
+  margin-top: 100px;
+  width: 42px;
+  height: 8px;
+  background: #E08631;
+  margin-bottom: 32px;
+}
+.sec3_content h1{
+  text-align: center;
+  margin:31px 76px 140px;
+  font-size: 96px;
+  color: #52503B;
+  font-family: sans-serif;
+}

@@ -1,0 +1,23 @@
+header{
+  background: #52503B;
+}
+.header_content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 120px;
+}
+.header_ul{
+  display: flex;
+  font-size: 15px;
+  font-family: sans-serif;
+  column-gap: 24px;
+  color: white;
+}
+.header_content button{
+  padding: 11px 18px;
+  background: white;
+  color: black;
+  border-radius: 6px;
+  border: none;
+}

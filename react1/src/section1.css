@@ -1,0 +1,17 @@
+.sec1{
+  text-align: center;
+  background: url("./img/section1/bg_section1.png") center/cover no-repeat;
+  padding: 178px 133px 90px;
+}
+.sec1 h1{
+  margin: 34px 0;
+  font-size: 48px;
+  color: white;
+  font-family: sans-serif;
+}
+.sec1 p{
+  font-size: 14px;
+  color: white;
+  margin-bottom: 113px;
+  font-family: sans-serif;
+}

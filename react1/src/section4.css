@@ -1,0 +1,68 @@
+.sec4{
+  background: #FAF8F0;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+.sec4_box{
+  background: #FAF8F0;
+  font-family: sans-serif;
+}
+.sec4_box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo_sec4{
+  width: 1900px;
+}
+.box_sec4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec4_box{
+  margin-top: 100px;
+  width: 42px;
+  height: 8px;
+  background: #E08631;
+  margin-bottom: 30px;
+}
+.main_h1{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 32px;
+  text-align: center;
+  color: #52503B;
+}
+.main_p{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: revert;
+  font-size: 16px;
+  color: #52503B;
+}
+.sec4_cards{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 0 99px;
+}
+.sec4_card{
+  text-align: center;
+}
+.sec4_card{
+  text-align: center;
+  font-size: 16px;
+  color: #52503B;
+}
+.sec4_card h3{
+  margin-top: 12px;
+  text-align: center;
+  font-size: 16px;
+  color: #52503B;
+}
+.sec4_card p{
+  text-align: center;
+  font-size: 14px;
+  color: #52503B;
+}

@@ -1,0 +1,46 @@
+.sec7_bottom{
+  display: flex;
+  margin: 100px 136px;
+  column-gap: 105px;
+}
+.box_sec7{
+  width: 42px;
+  height: 8px;
+  background: #E08631;
+  margin-bottom: 30px;
+}
+.sec7_box{
+  display: flex;
+  align-items: center;
+}
+.card_top{
+  display: flex;
+  margin-bottom: 59px;
+}
+.card{
+  display: flex;
+}
+.card_top img{
+  margin-right: 16px;
+}
+.sec7_left h1{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 32px;
+  color: #52503B;
+}
+.sec7_left p{
+  font-weight: lighter;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #52503B;
+}
+.sec7_cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 37px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin-bottom: 126px;
+}

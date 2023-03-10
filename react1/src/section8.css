@@ -1,0 +1,53 @@
+.sec8{
+  background: #FAF8F0;
+}
+.box_sec8{
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec8_box{
+  width: 42px;
+  height: 8px;
+  background: #E08631;
+  margin-bottom: 30px;
+}
+.sec8 h1{
+  margin-top: 30px;
+  text-align: center;
+  font-size: 32px;
+  color: #52503B;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.sec8 p{
+  text-align: center;
+  font-size: 16px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  color: #52503B;
+}
+.sec8_buttons{
+  display: flex;
+  margin-top: 18px;
+  justify-content: center;
+  column-gap: 20px;
+}
+.sec8_button1{
+  width: 116px;
+  height: 52px;
+  border: 4px solid #52503B;
+  border-radius: 6px;
+  color: #52503B;
+  background: none;
+}
+.sec8_button2{
+  background: #52503B;
+  border-radius: 6px;
+  width: 133px;
+  height: 52px;
+  margin-bottom: 100px;
+  color: white;
+  border: none;
+}
